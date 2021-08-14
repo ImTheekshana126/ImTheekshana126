@@ -47,7 +47,7 @@ You can use the website to generate badges: https://shields.io/
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImTheekshana126&theme=alduin" alt="ImTheekshana126" /></a> </p>
 
 
-  <a href="https://github.com/Damantha126"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ImTheekshana126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ImTheekshana126"><img alt="Theekshana Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ImTheekshana126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
