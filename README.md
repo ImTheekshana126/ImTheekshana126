@@ -1,10 +1,10 @@
-# Hey, I am Theekshana <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
-
+# Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>I am Theekshana ttps://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
 
 | <a href="https://t.me/ImTheekshana"><img src="https://telegra.ph/file/6fae76dbecebb6c850f81.jpg" width="160px" height="160px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](https://t.me/ImTheekshana)**                                                                                |
+|      
+                𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼  </OᖴᖴᒪIᑎE> 🇱🇰](https://t.me/ImTheekshana)** 
 
 
 
