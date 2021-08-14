@@ -6,8 +6,8 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Uvindu Bro 👻 Corporation  <br>
--  📚 I went to :  Galahitiyawa Central College  <br>
+-  🔭 I’m currently working on : Theekshana 👻 Corporation  <br>
+-  📚 I went to :  Kadawatha Central College  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![website](https://img.shields.io/badge/Go%20to-www.uvindubro.tk-brightgreen) <br>
@@ -20,12 +20,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### My Github Status
-![UvinduBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&theme=dark&show_icons=true)
+![Theekshana's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImTheekshana126&theme=dark&show_icons=true)
 
-- ![Profile views](https://gpvc.arturio.dev/UvinduBro)
+- ![Profile views](https://gpvc.arturio.dev/ImTheekshana126)
 
 
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UvinduBro&theme=alduin" alt="UvinduBro" /></a> </p>
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImTheekshana126&theme=alduin" alt="ImTheekshana126" /></a> </p>
 
 
 
