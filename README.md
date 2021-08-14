@@ -23,11 +23,11 @@
 # CONTACT ME ON
                                                           
 ### Bots Channel:
-<a href="https://t.me/ankivectorUpdates"><img src="https://img.shields.io/badge/Anki Vector%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Theekshana_Official"><img src="https://img.shields.io/badge/Theekshana %20Official-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 <p align="left">
 
 ### Bots Support Group:
-<a href="https://t.me/Theekshana_Official"><img src="https://img.shields.io/badge/Mizu%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Theekshana_Support"><img src="https://img.shields.io/badge/Theekshana%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Theekshana%20Bro&style=social)](https://www.youtube.com/channel/UCyixbWy9GmUvICfpwQEC13Q)
@@ -79,22 +79,11 @@
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
 
-# CONTACT ME ON
-                                                          
-### Bots Channel:
-<a href="https://t.me/Theekshana_Official"><img src="https://img.shields.io/badge/Theekshana Official%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
-<p align="left">
-
-### Bots Support Group:
-<a href="https://t.me/Theekshana_Support"><img src="https://img.shields.io/badge/Anki vecor%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+                                                         
                                                                                          
 
 # CONTACT ME ON
 
 <p align="left">
 <a href="https://t.me/ImTheekshana" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/_____.Theekshana._____" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/uvindubropage" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCBNsVUq2MLyxDSe62ljjWdQ" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/UvinduBro" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
+
