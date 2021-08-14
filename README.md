@@ -21,6 +21,20 @@ You can use the website to generate badges: https://shields.io/
 
 
 
+# MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Damantha126&theme=dark&show_icons=true)
+
+# CONTACT ME ON
+                                                          
+### Bots Channel:
+<a href="https://t.me/ankivectorUpdates"><img src="https://img.shields.io/badge/Anki Vector%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<p align="left">
+
+### Bots Support Group:
+<a href="https://t.me/AnkiSupport_Official"><img src="https://img.shields.io/badge/Anki vecor%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
+
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Theekshana%20Bro&style=social)](https://www.youtube.com/channel/UCyixbWy9GmUvICfpwQEC13Q)
 
 
