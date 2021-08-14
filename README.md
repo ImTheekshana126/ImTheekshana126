@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Damantha126&theme=dark&show_icons=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
 
 # CONTACT ME ON
                                                           
@@ -77,9 +77,6 @@ You can use the website to generate badges: https://shields.io/
 </p>  
 
 
-
-# MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
 
 # CONTACT ME ON
 
