@@ -74,7 +74,20 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
+                                                                                        
+ 
+# MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
 
+# CONTACT ME ON
+                                                          
+### Bots Channel:
+<a href="https://t.me/Theekshana_Official"><img src="https://img.shields.io/badge/Theekshana Official%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<p align="left">
+
+### Bots Support Group:
+<a href="https://t.me/Theekshana_Support"><img src="https://img.shields.io/badge/Anki vecor%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+                                                                                         
 
 # CONTACT ME ON
 
