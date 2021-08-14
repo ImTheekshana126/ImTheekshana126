@@ -8,10 +8,6 @@
 
 
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m currently working on : Theekshana 👻 Corporation  <br>
 -  📚 I went to :  Kadawatha Central College  <br>
@@ -23,8 +19,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-# MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
 
 # CONTACT ME ON
                                                           
@@ -52,6 +46,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 
+# MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
 
 
 
@@ -76,6 +72,14 @@ You can use the website to generate badges: https://shields.io/
   <br>
 </p>  
 
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
+
+<p align="center">
+  <a href="https://github.com/Damantha126">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damantha126#version3"/>
+  </a>
+</p>
+<a href="h
 
 
 # CONTACT ME ON
