@@ -55,12 +55,6 @@
 
 
 
-# MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
-
-
-
-
 
 
 # MY TOOLS AND LANG
