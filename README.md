@@ -1,10 +1,10 @@
-# Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>I am Theekshana<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 | <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/7ece6c8d2c9c2583600ad.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[𝘿𝙖𝙢𝙖𝙣𝙩𝙝𝙖 𝙅𝙖𝙨𝙞𝙣𝙜𝙝𝙚](https://t.me/damantha_jasinghe)**                                                                                |
+|       **[𝘿𝙖𝙢𝙖𝙣𝙩𝙝𝙖 𝙅𝙖𝙨𝙞𝙣𝙜𝙝𝙚](https://t.me/damantha_jasinghe)**                                                                                |                                        |
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m currently working on : Theekshana 👻 Corporation  <br>
 -  📚 I went to :  Kadawatha Central College  <br>
