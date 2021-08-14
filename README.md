@@ -4,7 +4,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 | <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/7ece6c8d2c9c2583600ad.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[𝘿𝙖𝙢𝙖𝙣𝙩𝙝𝙖 𝙅𝙖𝙨𝙞𝙣𝙜𝙝𝙚](https://t.me/damantha_jasinghe)**                                                                                |                                        |
+|       **[𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](https://t.me/ImTheekshana)**                                                                                |                                        |
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m currently working on : Theekshana 👻 Corporation  <br>
 -  📚 I went to :  Kadawatha Central College  <br>
