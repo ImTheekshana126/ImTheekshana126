@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Theekshana%20Bro&style=social)](https://www.youtube.com/c/PawanTheekshana/videos)
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Theekshana%20Bro&style=social)](https://www.youtube.com/channel/UCyixbWy9GmUvICfpwQEC13Q)
 
 
 ### My Github Status
