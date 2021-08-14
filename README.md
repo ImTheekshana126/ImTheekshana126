@@ -1,6 +1,11 @@
 # Hey, I am Theekshana <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 
+| <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/7ece6c8d2c9c2583600ad.png" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[𝘿𝙖𝙢𝙖𝙣𝙩𝙝𝙖 𝙅𝙖𝙨𝙞𝙣𝙜𝙝𝙚](https://t.me/damantha_jasinghe)**                                                                                |
+
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
