@@ -40,6 +40,15 @@
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImTheekshana126&theme=alduin" alt="ImTheekshana126" /></a> </p>
 
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
+
+<p align="center">
+  <a href="https://github.com/ImTheekshana126">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImTheekshana126#version3"/>
+  </a>
+</p>
+<a href="h
+
 
   <a href="https://github.com/ImTheekshana126"><img alt="Theekshana Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ImTheekshana126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
@@ -71,15 +80,6 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
-
-# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
-
-<p align="center">
-  <a href="https://github.com/Damantha126">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damantha126#version3"/>
-  </a>
-</p>
-<a href="h
 
 
 # CONTACT ME ON
