@@ -46,7 +46,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 <a href="h
 
-   |  <a href="https://t.me/ImTheekshana/"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" width="500px" height="120px" /></a> |
+<center>   |  <a href="https://t.me/ImTheekshana/"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" width="500px" height="120px" /></a> | </center>
    
    
   <a href="https://github.com/ImTheekshana126"><img alt="Theekshana Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ImTheekshana126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
