@@ -2,7 +2,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/ImTheekshana"><img src="https://telegra.ph/file/8470989f0bfe3c21ff2a2.jpg" width="150px" height="199px" /></a> |
+| <a href="https://t.me/ImTheekshana"><img src="https://telegra.ph/file/8470989f0bfe3c21ff2a2.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](https://t.me/ImTheekshana)**                                                                                |                                        |
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
