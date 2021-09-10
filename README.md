@@ -53,6 +53,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 
+## 🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 
 
