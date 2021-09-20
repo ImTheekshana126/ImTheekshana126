@@ -7,7 +7,9 @@ You can use the website to generate badges: https://shields.io/
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m currently working on : Theekshana 👻 Corporation  <br>
 -  📚 I went to :  Kadawatha Central College  <br>
--  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
+-  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>     ## 🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+      
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![website](https://img.shields.io/badge/Go%20to-www.Theekshana.tk-brightgreen) <br>
 -  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
