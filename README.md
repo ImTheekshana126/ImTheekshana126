@@ -2,9 +2,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/FqBTvSNjNzeZG/giphy.gif">
-</p>
+
 
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m currently working on : Theekshana 👻 Corporation  <br>
