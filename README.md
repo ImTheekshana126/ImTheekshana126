@@ -91,8 +91,8 @@ You can use the website to generate badges: https://shields.io/
 
 MY TELEGRAM BOTS 
 
-[Mizu](t.me/themizubot) <br>
-[Lisa](t.me/The;isa_bot) <br>
-[SL Covid19-Bot](SlCovid19_bot) <br>
+[Mizu] (t.me/themizubot) <br>
+[Lisa] (t.me/The;isa_bot) <br>
+[SL Covid19-Bot] (SlCovid19_bot) <br>
 [Sophie](ImSophiebot) <br>
-[YouTube Bot](t.me/PVUtubebot) <br>
+[YouTube Bot] (t.me/PVUtubebot) <br>
