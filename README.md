@@ -47,12 +47,6 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://github.com/ImTheekshana126"><img alt="Theekshana Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ImTheekshana126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-
-## 🎵 Now playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
-
-
-
 # MY TOOLS AND LANG
 
 <p align ="left">
@@ -75,5 +69,3 @@ You can use the website to generate badges: https://shields.io/
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
                                                                                                                       
-#### **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{ImTheekshana126}/count.svg)
