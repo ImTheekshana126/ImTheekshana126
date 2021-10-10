@@ -1,4 +1,4 @@
-# Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>I am THEEKSHANA<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>I am 𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -24,8 +24,6 @@ You can use the website to generate badges: https://shields.io/
 ### Bots Support Group:
 <a href="https://t.me/Theekshana_Support"><img src="https://img.shields.io/badge/Theekshana%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
-
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Theekshana%20Bro&style=social)](https://www.youtube.com/channel/UCyixbWy9GmUvICfpwQEC13Q)
 
 ### My Github Status
 ![Theekshana's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImTheekshana126&theme=dark&show_icons=true)
@@ -76,23 +74,6 @@ You can use the website to generate badges: https://shields.io/
  
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
-
-                                                         
-                                                                                         
-
-# CONTACT ME ON
-
-<p align="left">
-<a href="https://t.me/ImTheekshana" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-
+                                                                                                                      
 #### **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{ImTheekshana126}/count.svg)
-
-
-MY TELEGRAM BOTS 
-
-[Mizu] (t.me/themizubot) <br>
-[Lisa] (t.me/The;isa_bot) <br>
-[SL Covid19-Bot] (SlCovid19_bot) <br>
-[Sophie](ImSophiebot) <br>
-[YouTube Bot] (t.me/PVUtubebot) <br>
