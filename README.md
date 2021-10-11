@@ -2,9 +2,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=999997&lines=-%3E+Bots+Developer;-%3E+Web+Developer;-%3E+Graphic+Designer;-%3EYoutuber;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1131701&lines=-%3E+Bots+Developer;-%3E+Web+Developer;-%3E+Graphic+Designer;-%3EYoutuber;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
 | <a href="https://t.me/imtheekshana"><img src="https://telegra.ph/file/d98fe6338cc1e55d39ff8.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼](https://t.me/imtheekshana)**                                                                                |
