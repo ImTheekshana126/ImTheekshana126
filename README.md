@@ -36,7 +36,9 @@ You can use the website to generate badges: https://shields.io/
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImTheekshana126#version3"/>
   </a>
 </p>
+
 # MY TOOLS AND LANG
+
 <p align ="left">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
@@ -51,7 +53,8 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
-</p>                                                                                      
+</p>                  
+
 # MOST USED LANGUAGES
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
