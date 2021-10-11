@@ -42,9 +42,6 @@ You can use the website to generate badges: https://shields.io/
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImTheekshana126#version3"/>
   </a>
 </p>
-<p align="center"><a href="h
-|<a href="https://t.me/ImTheekshana/"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" width="500px" height="120px" /></a>|</p> 
-
 # MY TOOLS AND LANG
 
 <p align ="left">
