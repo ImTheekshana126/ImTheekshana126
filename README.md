@@ -5,7 +5,6 @@ You can use the website to generate badges: https://shields.io/
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=995288&lines=-%3E+Bots+Developer;-%3E+Web+Developer;-%3E+Graphic+Designer;-%3EYoutuber;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
 
-
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m currently working on : Theekshana 👻 Corporation  <br>
 -  📚 I went to :  Kadawatha Central College  <br>
@@ -15,35 +14,24 @@ You can use the website to generate badges: https://shields.io/
 -  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
-
-
 # CONTACT ME ON
                                                           
 ### Bots Channel:
 <a href="https://t.me/Theekshana_Official"><img src="https://img.shields.io/badge/Theekshana %20Official-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 <p align="left">
-
 ### Bots Support Group:
 <a href="https://t.me/Theekshana_Support"><img src="https://img.shields.io/badge/Theekshana%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-
 ### My Github Status
 ![Theekshana's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImTheekshana126&theme=dark&show_icons=true)
-
 - ![Profile views](https://gpvc.arturio.dev/ImTheekshana126)
-
-
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImTheekshana126&theme=alduin" alt="ImTheekshana126" /></a> </p>
-
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
-
 <p align="center">
   <a href="https://github.com/ImTheekshana126">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImTheekshana126#version3"/>
   </a>
 </p>
 # MY TOOLS AND LANG
-
 <p align ="left">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
@@ -58,9 +46,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
-</p>  
-                                                                                        
- 
+</p>                                                                                      
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
                                                                                                                       
