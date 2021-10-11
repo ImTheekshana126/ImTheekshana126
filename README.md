@@ -62,7 +62,3 @@ You can use the website to generate badges: https://shields.io/
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
                                                                                                                       
-<p>
-  <a href="https://github.com/dihanofficial/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=dihanofficial&layout=compact&show_icons=true&theme=radical&cache_seconds=1800" />
-  </a>
