@@ -6,7 +6,7 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/imtheekshana"><img src="https://telegra.ph/file/d98fe6338cc1e55d39ff8.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼](https://t.me/imtheekshana)**                                                                                |
-| <a href="https://t.me/Damantha_Jasinghe"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/Damantha_Jasinghe"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
+| <a href="https://t.me/imtheekshana"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/Damantha_Jasinghe"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -65,5 +65,5 @@ You can use the website to generate badges: https://shields.io/
 
 # MOST USED LANGUAGES
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&show_icons=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&red_icons=true)
                                                                                                                       
