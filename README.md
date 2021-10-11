@@ -21,10 +21,15 @@ You can use the website to generate badges: https://shields.io/
 <p align="left">
 ### Bots Support Group:
 <a href="https://t.me/Theekshana_Support"><img src="https://img.shields.io/badge/Theekshana%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+  
 ### My Github Status
+  
 ![Theekshana's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImTheekshana126&theme=dark&show_icons=true)
+  
 - ![Profile views](https://gpvc.arturio.dev/ImTheekshana126)
+  
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImTheekshana126&theme=alduin" alt="ImTheekshana126" /></a> </p>
+
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 <p align="center">
   <a href="https://github.com/ImTheekshana126">
