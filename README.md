@@ -3,7 +3,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009988&lines=-%6E+Bots+Developer;-%6E+Web+Developer;-%6E+Graphic+Designer;-%3EYoutuber;-%6E+Music+Lover;-%6E+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009952899788&lines=-%9E+Bots+Developer;-%6E+Web+Developer;-%9E+Graphic+Designer;-%9EYoutuber;-%9E+Music+Lover;-%9E+Programmer)](https://git.io/typing-svg)
 
 
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
