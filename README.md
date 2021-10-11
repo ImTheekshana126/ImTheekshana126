@@ -17,9 +17,12 @@ You can use the website to generate badges: https://shields.io/
 # CONTACT ME ON
                                                           
 ### Bots Channel:
+
 <a href="https://t.me/Theekshana_Official"><img src="https://img.shields.io/badge/Theekshana %20Official-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 <p align="left">
+  
 ### Bots Support Group:
+  
 <a href="https://t.me/Theekshana_Support"><img src="https://img.shields.io/badge/Theekshana%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
   
 ### My Github Status
