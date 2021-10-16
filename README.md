@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 -  🔭 I’m currently working on : Dtech Corporation  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
--  💬 Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-https://theekshana.ga-brightgreen) <br>
+-  💬 Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-about.me/imtheekshana-brightgreen) <br>
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 # CONTACT ME ON
