@@ -70,4 +70,4 @@ You can use the website to generate badges: https://shields.io/
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheekshana126&theme=dark&red_icons=true)
                                                                                                                       
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/imtheekshana126/https://github.com/ImTheekshana126/ImTheekshana126?style=social">
+https://img.shields.io/github/forks/imtheekshana126/https://github.com/ImTheekshana126/ImTheekshana126?style=social
