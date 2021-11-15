@@ -1,4 +1,4 @@
-# Hey There! I am 𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# Hey There! I am 𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
