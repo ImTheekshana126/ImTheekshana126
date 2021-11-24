@@ -15,12 +15,12 @@ You can use the website to generate badges: https://shields.io/
 You can use the website to generate badges: https://shields.io/
 -->
 
--  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Dtech Corporation  <br>
--  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
--  🤔 I’m looking for help : For  Me  <br>
--  💬 Ask me about :  <br>
--  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+- 🔭 I’m currently working on [**Theekshana Tech.**](github.com/imtheekshana126)
+- 🌱 I’m currently learning **Python.**
+- 💬 Ask me about **anything, I am happy to help.**
+- 👨‍💻 All of my projects are available at *www.ImTheekshana.com*
+- 📫 How to reach me **hello@ImTheekshana.me**
+- ⚡ Fun fact **still Student.**
 
 # CONTACT ME ON
                                                           
