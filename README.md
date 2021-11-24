@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 - 🔭 I’m currently working on [**Theekshana Tech.**](github.com/imtheekshana126)
 - 🌱 I’m currently learning **Python.**
 - 💬 Ask me about **anything, I am happy to help.**
-- 👨‍💻 All of my projects are available at *www.ImTheekshana.com*
+- 👨‍💻 All of my projects are available at [*www.ImTheekshana.com*](t.me/imtheekshana)
 - 📫 How to reach me **hello@ImTheekshana.me**
 - ⚡ Fun fact **still Student.**
 
