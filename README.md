@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
   
 ![Theekshana's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImTheekshana126&theme=dark&show_icons=true)
   
-- [![Profile views](https://komarev.com/ghpvc/?username=anjanama&label=Profile%20Views&color=red)](https://github.com/imtheekshana126)
+- [![Profile views](https://komarev.com/ghpvc/?username=imTheekshana126&label=Profile%20Views&color=red)](https://github.com/imtheekshana126)
   
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImTheekshana126&theme=alduin" alt="ImTheekshana126" /></a> </p>
 
